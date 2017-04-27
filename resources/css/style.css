@@ -1,10 +1,29 @@
 body {
   background: black;
+  font-family: Verdana;
+  text-align: center;
 }
 h1 {
   color: white;
   font-size: 50px;
+  Font-Weight: normal;
   text-align: center;
-  font-family: Verdana;
+  f
+}
+h2 {
+  color: white;
+  font-size: 42px;
+  Font-Weight: 300
+}
+p {
+  color: gray;
+  font-size: 21px;
   Font-Weight: normal
+}
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+.footer{
+  text-align:right
 }
